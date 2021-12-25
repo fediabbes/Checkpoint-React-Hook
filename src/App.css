@@ -1,0 +1,13 @@
+.btn-primary {
+    color: #fff !important;
+    background-color: #00204e !important;
+    border-color: #051938 !important;
+    border-radius: 10px;
+    margin: auto !important;
+}
+.modal-title {
+    margin-bottom: 0;
+    line-height: 1.5;
+    color: revert;
+    font-family: cursive;
+}
